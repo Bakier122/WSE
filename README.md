@@ -1,7 +1,7 @@
 README.md
 
 
-# Dziennik Ucznia
+### Dziennik Ucznia
 
 Opis
 Aplikacja `Dziennik Ucznia` jest prostą aplikacją tekstową, która pozwala na zarządzanie ocenami i uwagami uczniów. Umożliwia dodawanie, usuwanie oraz wyświetlanie ocen i uwag, a także cofanie ostatnich akcji.
@@ -15,17 +15,17 @@ dziennik_ucznia/
 └── requirements.txt
 
 
-Instalacja
+##Instalacja
 1. Pobierz repozytorium zdalne i przejdź do katalogu projektu.
 
 2. (Opcjonalnie) Utwórz i aktywuj wirtualne środowisko.
 
 3. Zainstaluj wymagane biblioteki za pomocą `pip` (plik `requirements.txt` jest pusty, ponieważ aplikacja nie ma zależności).
 
-Uruchomienie
+##Uruchomienie
 Aby uruchomić aplikację, uruchom plik `main.py` w swoim środowisku Python. Możesz to zrobić, uruchamiając go bezpośrednio z poziomu swojego edytora kodu lub z terminala/systemu Windows.
 
-Jak działa aplikacja
+##Jak działa aplikacja
 Aplikacja działa w trybie interaktywnego menu, które umożliwia użytkownikowi wybór różnych opcji zarządzania ocenami i uwagami ucznia. Główne funkcje aplikacji obejmują:
 
 1. **Dodaj ocenę** - Pozwala dodać ocenę do listy ocen ucznia.
@@ -37,10 +37,10 @@ Aplikacja działa w trybie interaktywnego menu, które umożliwia użytkownikowi
 7. **Pokaż ucznia** - Wyświetla wszystkie oceny i uwagi ucznia.
 8. **Wyjdź** - Kończy działanie aplikacji.
 
-Instrukcja użytkowania
+##Instrukcja użytkowania
 Po uruchomieniu aplikacji zobaczysz interaktywne menu. Wybierz odpowiednią opcję, wpisując numer opcji i naciskając Enter. Postępuj zgodnie z wyświetlanymi instrukcjami, aby dodawać, usuwać, wyświetlać oceny i uwagi, a także cofać ostatnie akcje.
 
-Przykłady użycia
+##Przykłady użycia
 - **Dodaj ocenę**:
     ```
     Wybierz opcję: 1
